@@ -1,0 +1,9 @@
+{
+  "title": "markdown语法的使用",
+  "cells": [
+    {
+      "type": "markdown",
+      "data": "####gitbook的基本使用\n - 插入图片\n   - 插入本地图片\n     - 创建一个images文件夹和根目录一致\n     - 把图片放到images里面，然后根据下面寻路径方式进行添加图片\n     - ![](images/1.png)\n   - 查入网络图片\n     - ![Mou icon](http://25.io/mou/Mou_128.png)\n\n - 插入链接\n     - [ahha](http://www.baidu.com/)\n - 表格\n\n - 导入代码\n  ```objc\n\n  + (NSArray *)constraintsWithVisualFormat:(NSString *)format\n    options:(NSLayoutFormatOptions)opts\n    metrics:(NSDictionary *)metrics\n    views:(NSDictionary *)views;\n\n  ````"
+    }
+  ]
+}
